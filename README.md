@@ -140,4 +140,5 @@ type: Opaque
 ```
 ### O ID é meio suspeito...
 `echo "VEhNe3llc190aGVyZV8kc19ub18kZWNyZXR9" | base64 -d`
+
 `THM{***_*_*_****__*_*_}`
